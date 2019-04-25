@@ -1,5 +1,5 @@
 {
-  "name": "@meetyou/vue-swiper",
+  "name": "meetyou-vue-swiper",
   "version": "1.0.0",
   "description": "A touch slider for vue.js. Base on vue-swipe, add Server Side Rendering Support",
   "main": "dist/vue-swipe.js",

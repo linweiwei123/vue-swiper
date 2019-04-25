@@ -5,7 +5,7 @@ vue-swipe is a light touch slider for Vue.js. Support Server Side Rendering!
 ## Install
 
 ```bash
-$ npm install @meetyou/vue-swiper
+$ npm install meetyou-vue-swiper
 ```
 
 ## Import
@@ -15,13 +15,13 @@ $ npm install @meetyou/vue-swiper
 Import components to your project:
 
 ``` js
-require('@meetyou/vue-swiper/dist/vue-swipe.css');
+require('meetyou-vue-swiper/dist/vue-swipe.css');
 
 // in ES6 modules
-import { Swipe, SwipeItem } from '@meetyou/vue-swiper';
+import { Swipe, SwipeItem } from 'meetyou-vue-swiper';
 
 // in CommonJS
-const { Swipe, SwipeItem } = require('@meetyou/vue-swiper');
+const { Swipe, SwipeItem } = require('meetyou-vue-swiper');
 
 // in Global variable
 const { Swipe, SwipeItem } = VueSwipe;
