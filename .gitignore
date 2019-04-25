@@ -1,6 +1,11 @@
-.DS_Store
-node_modules
-coverage
-.idea
-.jshintrc
 *.log
+.DS_Store
+
+.idea/
+.eslintcache
+.vscode
+
+npm-debug.log
+node_modules/
+package-lock.json
+
